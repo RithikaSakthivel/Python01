@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Order_Time,Location,Food_Item,Quantity,Total_Amount
+1,2026-06-13,10:01,Coimbatore,Fried Rice,2,300
+2,2026-02-05,10:43,Salem,Paneer Butter Masala,1,190
+3,2026-04-19,08:01,Coimbatore,Pizza,2,500
+4,2026-05-10,07:35,Trichy,Dosa,5,400
+5,2026-02-26,21:37,Tirunelveli,Fried Rice,1,150
+6,2026-02-10,20:21,Coimbatore,Fried Rice,2,300
+7,2026-03-28,10:05,Madurai,Parotta,1,90
+8,2026-03-30,15:51,Salem,Biryani,4,720
+9,2026-02-01,19:05,Tirunelveli,Paneer Butter Masala,3,570
+10,2026-06-10,18:36,Chennai,Dosa,1,80
+11,2026-06-19,14:49,Tirunelveli,Fried Rice,1,150
+12,2026-03-01,10:24,Erode,Fried Rice,4,600
+13,2026-04-04,12:23,Erode,Noodles,2,280
+14,2026-03-10,09:38,Erode,Burger,5,600
+15,2026-03-04,12:29,Erode,Parotta,3,270
+16,2026-06-26,14:43,Coimbatore,Noodles,1,140
+17,2026-01-09,17:25,Coimbatore,Fried Rice,1,150
+18,2026-05-26,17:13,Erode,Chicken Curry,4,800
+19,2026-04-28,11:16,Erode,Burger,2,240
+20,2026-05-24,15:47,Salem,Idli,4,200
+21,2026-04-13,18:14,Trichy,Burger,5,600
+22,2026-01-24,08:55,Erode,Pizza,2,500
+23,2026-02-10,20:38,Trichy,Pizza,4,1000
+24,2026-06-02,21:33,Tirunelveli,Fried Rice,5,750
+25,2026-01-03,10:43,Tirunelveli,Paneer Butter Masala,3,570
+26,2026-06-14,17:07,Coimbatore,Fried Rice,4,600
+27,2026-04-27,07:46,Tirunelveli,Fried Rice,5,750
+28,2026-02-15,23:58,Tirunelveli,Pizza,3,750
+29,2026-06-13,23:38,Madurai,Dosa,2,160
+30,2026-02-11,23:58,Madurai,Biryani,5,900
+31,2026-05-06,07:07,Coimbatore,Noodles,3,420
+32,2026-01-15,14:56,Chennai,Idli,1,50
+33,2026-05-05,09:48,Coimbatore,Paneer Butter Masala,2,380
+34,2026-06-18,22:35,Salem,Burger,3,360
+35,2026-06-05,20:13,Erode,Paneer Butter Masala,2,380
+36,2026-03-21,19:42,Salem,Noodles,4,560
+37,2026-04-26,10:15,Madurai,Dosa,1,80
+38,2026-01-06,14:37,Chennai,Dosa,1,80
+39,2026-06-11,08:14,Tirunelveli,Pizza,1,250
+40,2026-03-26,09:32,Erode,Dosa,3,240
+41,2026-05-05,13:34,Salem,Burger,5,600
+42,2026-05-02,14:50,Coimbatore,Chicken Curry,4,800
+43,2026-01-25,10:42,Trichy,Parotta,3,270
+44,2026-04-16,21:55,Chennai,Biryani,1,180
+45,2026-04-14,17:51,Coimbatore,Pizza,2,500
+46,2026-02-18,21:08,Madurai,Parotta,2,180
+47,2026-04-29,14:55,Tirunelveli,Pizza,4,1000
+48,2026-05-21,10:03,Chennai,Paneer Butter Masala,1,190
+49,2026-03-02,12:26,Coimbatore,Chicken Curry,4,800
+50,2026-04-13,08:10,Trichy,Parotta,1,90
+51,2026-03-09,21:18,Erode,Parotta,5,450
+52,2026-05-05,11:12,Chennai,Fried Rice,2,300
+53,2026-05-29,08:47,Chennai,Noodles,1,140
+54,2026-05-30,22:32,Chennai,Paneer Butter Masala,2,380
+55,2026-05-11,09:54,Salem,Burger,1,120
+56,2026-01-18,14:25,Coimbatore,Pizza,5,1250
+57,2026-05-29,08:39,Erode,Pizza,4,1000
+58,2026-05-30,23:20,Erode,Fried Rice,2,300
+59,2026-03-22,14:16,Erode,Parotta,2,180
+60,2026-06-15,16:29,Chennai,Noodles,1,140
+61,2026-04-28,10:04,Salem,Paneer Butter Masala,2,380
+62,2026-03-09,11:59,Coimbatore,Noodles,1,140
+63,2026-04-05,16:10,Erode,Chicken Curry,5,1000
+64,2026-03-19,23:00,Erode,Paneer Butter Masala,3,570
+65,2026-01-27,11:16,Erode,Pizza,1,250
+66,2026-05-22,11:17,Coimbatore,Fried Rice,5,750
+67,2026-03-29,13:43,Trichy,Fried Rice,5,750
+68,2026-03-06,08:05,Chennai,Parotta,3,270
+69,2026-01-01,17:49,Coimbatore,Burger,3,360
+70,2026-04-24,20:35,Chennai,Biryani,1,180
+71,2026-06-26,11:34,Salem,Biryani,3,540
+72,2026-05-22,11:27,Madurai,Burger,1,120
+73,2026-04-04,08:57,Erode,Noodles,2,280
+74,2026-03-05,10:22,Salem,Paneer Butter Masala,4,760
+75,2026-02-09,14:55,Trichy,Burger,2,240
+76,2026-01-07,12:47,Tirunelveli,Noodles,4,560
+77,2026-06-21,14:17,Trichy,Burger,1,120
+78,2026-01-10,22:14,Madurai,Dosa,4,320
+79,2026-03-20,14:14,Trichy,Biryani,2,360
+80,2026-03-26,15:55,Madurai,Pizza,3,750
+81,2026-06-14,23:25,Chennai,Paneer Butter Masala,3,570
+82,2026-01-30,15:11,Chennai,Idli,3,150
+83,2026-01-28,20:22,Salem,Noodles,4,560
+84,2026-05-11,10:24,Madurai,Idli,2,100
+85,2026-01-12,20:00,Erode,Paneer Butter Masala,5,950
+86,2026-06-21,13:23,Erode,Parotta,1,90
+87,2026-03-26,17:42,Salem,Pizza,3,750
+88,2026-03-21,20:20,Salem,Parotta,3,270
+89,2026-02-02,13:26,Salem,Parotta,2,180
+90,2026-05-26,16:25,Madurai,Paneer Butter Masala,1,190
+91,2026-03-15,13:27,Erode,Idli,5,250
+92,2026-03-24,21:28,Salem,Chicken Curry,2,400
+93,2026-05-02,12:42,Salem,Pizza,3,750
+94,2026-06-19,17:05,Coimbatore,Dosa,3,240
+95,2026-02-20,11:01,Trichy,Biryani,2,360
+96,2026-06-06,09:29,Coimbatore,Parotta,5,450
+97,2026-06-28,19:31,Coimbatore,Parotta,2,180
+98,2026-06-17,07:57,Coimbatore,Pizza,4,1000
+99,2026-02-15,23:29,Coimbatore,Biryani,5,900
+100,2026-02-01,21:08,Salem,Chicken Curry,5,1000
+101,2026-06-02,17:48,Tirunelveli,Chicken Curry,5,1000
+102,2026-05-10,20:53,Coimbatore,Paneer Butter Masala,4,760
+103,2026-05-02,21:16,Tirunelveli,Dosa,3,240
+104,2026-05-14,22:40,Trichy,Dosa,3,240
+105,2026-01-20,16:15,Madurai,Fried Rice,3,450
+106,2026-05-19,09:08,Trichy,Burger,2,240
+107,2026-06-27,11:45,Trichy,Dosa,1,80
+108,2026-04-15,17:34,Chennai,Chicken Curry,4,800
+109,2026-02-22,20:24,Tirunelveli,Idli,1,50
+110,2026-05-28,19:30,Madurai,Biryani,3,540
+111,2026-04-10,20:34,Coimbatore,Paneer Butter Masala,5,950
+112,2026-05-05,14:17,Chennai,Parotta,4,360
+113,2026-04-10,17:42,Tirunelveli,Parotta,2,180
+114,2026-04-30,11:39,Trichy,Paneer Butter Masala,1,190
+115,2026-06-01,07:05,Tirunelveli,Parotta,2,180
+116,2026-04-29,12:03,Madurai,Fried Rice,4,600
+117,2026-02-24,21:20,Madurai,Noodles,4,560
+118,2026-04-18,15:53,Chennai,Pizza,4,1000
+119,2026-05-19,08:22,Tirunelveli,Dosa,1,80
+120,2026-06-16,08:48,Coimbatore,Biryani,2,360
+121,2026-01-06,11:15,Erode,Burger,4,480
+122,2026-01-30,13:29,Coimbatore,Fried Rice,3,450
+123,2026-06-05,10:49,Chennai,Burger,3,360
+124,2026-05-29,07:59,Erode,Fried Rice,5,750
+125,2026-04-07,19:45,Salem,Dosa,1,80
+126,2026-06-26,14:06,Tirunelveli,Fried Rice,5,750
+127,2026-01-31,08:22,Erode,Paneer Butter Masala,4,760
+128,2026-04-05,09:32,Tirunelveli,Noodles,1,140
+129,2026-04-18,22:06,Erode,Parotta,3,270
+130,2026-04-28,11:27,Erode,Burger,5,600
+131,2026-03-11,22:29,Madurai,Parotta,5,450
+132,2026-03-24,14:53,Trichy,Pizza,3,750
+133,2026-03-04,21:36,Madurai,Idli,4,200
+134,2026-01-08,22:54,Trichy,Noodles,2,280
+135,2026-02-24,18:51,Madurai,Fried Rice,3,450
+136,2026-06-02,15:35,Coimbatore,Biryani,5,900
+137,2026-01-22,14:46,Salem,Parotta,4,360
+138,2026-03-03,22:41,Tirunelveli,Chicken Curry,4,800
+139,2026-01-05,09:18,Erode,Dosa,4,320
+140,2026-03-04,16:42,Trichy,Idli,3,150
+141,2026-05-22,23:22,Madurai,Parotta,5,450
+142,2026-04-01,21:17,Coimbatore,Fried Rice,3,450
+143,2026-01-31,13:20,Tirunelveli,Pizza,5,1250
+144,2026-06-26,12:12,Madurai,Dosa,4,320
+145,2026-05-31,23:38,Tirunelveli,Fried Rice,1,150
+146,2026-02-19,16:14,Madurai,Noodles,2,280
+147,2026-01-04,11:17,Salem,Biryani,1,180
+148,2026-03-16,11:40,Tirunelveli,Chicken Curry,1,200
+149,2026-01-04,16:30,Madurai,Chicken Curry,4,800
+150,2026-02-17,08:16,Tirunelveli,Chicken Curry,1,200
+151,2026-01-17,19:31,Erode,Pizza,5,1250
+152,2026-06-25,08:09,Madurai,Burger,5,600
+153,2026-01-22,14:07,Salem,Paneer Butter Masala,4,760
+154,2026-06-02,14:49,Trichy,Paneer Butter Masala,4,760
+155,2026-04-24,16:55,Madurai,Idli,4,200
+156,2026-05-26,08:39,Erode,Pizza,2,500
+157,2026-02-24,15:42,Coimbatore,Pizza,2,500
+158,2026-02-14,09:10,Trichy,Biryani,4,720
+159,2026-06-26,22:18,Madurai,Biryani,2,360
+160,2026-03-14,21:04,Tirunelveli,Dosa,3,240
+161,2026-06-10,13:27,Coimbatore,Pizza,5,1250
+162,2026-06-15,11:58,Chennai,Fried Rice,2,300
+163,2026-01-16,12:50,Erode,Fried Rice,5,750
+164,2026-05-26,16:28,Erode,Pizza,4,1000
+165,2026-03-19,19:17,Trichy,Paneer Butter Masala,5,950
+166,2026-04-23,09:38,Erode,Biryani,4,720
+167,2026-03-24,15:01,Erode,Pizza,2,500
+168,2026-05-28,07:48,Chennai,Fried Rice,5,750
+169,2026-02-14,22:33,Coimbatore,Chicken Curry,3,600
+170,2026-05-30,20:40,Trichy,Chicken Curry,1,200
+171,2026-03-31,20:21,Tirunelveli,Noodles,1,140
+172,2026-02-11,17:26,Erode,Chicken Curry,3,600
+173,2026-04-13,08:29,Madurai,Pizza,3,750
+174,2026-03-24,10:49,Tirunelveli,Parotta,5,450
+175,2026-01-01,21:26,Salem,Biryani,2,360
+176,2026-04-03,22:40,Coimbatore,Chicken Curry,1,200
+177,2026-03-10,11:59,Erode,Fried Rice,4,600
+178,2026-05-05,10:01,Erode,Idli,2,100
+179,2026-02-10,16:35,Trichy,Biryani,5,900
+180,2026-01-24,14:53,Chennai,Pizza,4,1000
+181,2026-06-15,11:31,Erode,Fried Rice,5,750
+182,2026-03-11,20:53,Coimbatore,Chicken Curry,4,800
+183,2026-04-27,11:24,Salem,Dosa,5,400
+184,2026-02-04,09:17,Tirunelveli,Parotta,3,270
+185,2026-05-10,15:52,Erode,Biryani,3,540
+186,2026-03-18,22:55,Salem,Burger,4,480
+187,2026-05-04,18:21,Trichy,Paneer Butter Masala,5,950
+188,2026-04-27,17:55,Salem,Dosa,2,160
+189,2026-04-09,14:54,Madurai,Parotta,1,90
+190,2026-05-02,19:24,Chennai,Burger,4,480
+191,2026-02-02,23:37,Tirunelveli,Noodles,1,140
+192,2026-04-23,10:33,Erode,Chicken Curry,1,200
+193,2026-02-06,20:55,Trichy,Burger,1,120
+194,2026-03-09,17:39,Tirunelveli,Parotta,1,90
+195,2026-03-26,19:20,Chennai,Chicken Curry,5,1000
+196,2026-06-08,09:15,Erode,Fried Rice,2,300
+197,2026-01-24,20:06,Coimbatore,Pizza,4,1000
+198,2026-06-27,16:57,Madurai,Biryani,1,180
+199,2026-01-15,16:22,Coimbatore,Noodles,4,560
+200,2026-03-04,23:26,Coimbatore,Idli,2,100
+201,2026-02-14,09:39,Erode,Parotta,5,450
+202,2026-03-03,22:58,Coimbatore,Idli,2,100
+203,2026-04-29,15:29,Tirunelveli,Fried Rice,1,150
+204,2026-04-30,16:43,Chennai,Paneer Butter Masala,2,380
+205,2026-04-24,18:37,Erode,Fried Rice,4,600
+206,2026-03-06,21:54,Trichy,Fried Rice,2,300
+207,2026-05-04,10:15,Madurai,Parotta,5,450
+208,2026-05-28,16:44,Tirunelveli,Fried Rice,1,150
+209,2026-06-18,19:17,Tirunelveli,Biryani,5,900
+210,2026-06-25,08:58,Tirunelveli,Idli,4,200
+211,2026-03-15,14:38,Erode,Noodles,2,280
+212,2026-02-18,15:43,Erode,Burger,1,120
+213,2026-06-15,08:19,Salem,Chicken Curry,1,200
+214,2026-04-04,11:05,Erode,Fried Rice,3,450
+215,2026-04-17,12:12,Madurai,Burger,5,600
+216,2026-05-16,23:58,Madurai,Fried Rice,2,300
+217,2026-05-04,16:47,Trichy,Noodles,1,140
+218,2026-01-20,11:48,Tirunelveli,Dosa,4,320
+219,2026-05-23,18:05,Madurai,Parotta,1,90
+220,2026-05-18,10:29,Salem,Noodles,3,420
+221,2026-04-08,18:06,Chennai,Dosa,4,320
+222,2026-06-08,17:58,Erode,Idli,2,100
+223,2026-01-17,21:58,Chennai,Fried Rice,4,600
+224,2026-02-05,08:02,Chennai,Fried Rice,4,600
+225,2026-01-25,14:56,Trichy,Paneer Butter Masala,2,380
+226,2026-04-27,18:42,Salem,Paneer Butter Masala,4,760
+227,2026-02-09,20:41,Salem,Pizza,4,1000
+228,2026-04-15,15:02,Trichy,Noodles,2,280
+229,2026-04-24,14:54,Erode,Noodles,1,140
+230,2026-04-05,18:03,Coimbatore,Parotta,3,270
+231,2026-02-01,21:05,Chennai,Dosa,5,400
+232,2026-01-13,17:15,Coimbatore,Burger,5,600
+233,2026-01-18,13:37,Madurai,Dosa,2,160
+234,2026-02-07,07:17,Salem,Burger,2,240
+235,2026-03-06,12:07,Chennai,Biryani,2,360
+236,2026-04-02,14:37,Coimbatore,Noodles,1,140
+237,2026-03-09,08:08,Chennai,Parotta,5,450
+238,2026-01-17,22:28,Salem,Noodles,5,700
+239,2026-01-28,21:32,Chennai,Dosa,5,400
+240,2026-06-18,23:19,Chennai,Chicken Curry,1,200
+241,2026-05-03,19:27,Erode,Pizza,4,1000
+242,2026-04-24,09:57,Salem,Pizza,3,750
+243,2026-02-07,09:08,Erode,Fried Rice,5,750
+244,2026-05-30,17:24,Madurai,Idli,5,250
+245,2026-04-27,23:38,Tirunelveli,Parotta,1,90
+246,2026-06-29,10:54,Trichy,Paneer Butter Masala,2,380
+247,2026-04-26,14:26,Trichy,Noodles,4,560
+248,2026-04-17,10:20,Erode,Parotta,3,270
+249,2026-03-07,18:09,Chennai,Chicken Curry,1,200
+250,2026-01-22,09:27,Tirunelveli,Pizza,3,750
+251,2026-02-03,08:37,Madurai,Paneer Butter Masala,5,950
+252,2026-06-21,10:26,Tirunelveli,Noodles,4,560
+253,2026-01-14,16:38,Chennai,Fried Rice,3,450
+254,2026-05-28,23:13,Coimbatore,Burger,4,480
+255,2026-01-28,18:54,Chennai,Paneer Butter Masala,3,570
+256,2026-03-13,14:51,Tirunelveli,Parotta,5,450
+257,2026-06-09,07:38,Coimbatore,Fried Rice,1,150
+258,2026-03-11,16:58,Chennai,Noodles,3,420
+259,2026-02-16,11:36,Coimbatore,Parotta,1,90
+260,2026-06-12,07:05,Trichy,Paneer Butter Masala,2,380
+261,2026-04-18,21:21,Madurai,Burger,3,360
+262,2026-03-25,09:56,Coimbatore,Biryani,2,360
+263,2026-06-08,08:43,Trichy,Pizza,3,750
+264,2026-06-19,20:31,Trichy,Idli,4,200
+265,2026-03-11,13:48,Madurai,Paneer Butter Masala,1,190
+266,2026-04-21,10:18,Salem,Idli,4,200
+267,2026-06-20,16:02,Salem,Dosa,4,320
+268,2026-01-15,07:13,Tirunelveli,Fried Rice,2,300
+269,2026-02-05,15:18,Chennai,Noodles,1,140
+270,2026-05-08,20:11,Salem,Burger,4,480
+271,2026-02-28,23:35,Trichy,Noodles,1,140
+272,2026-01-11,20:01,Tirunelveli,Chicken Curry,1,200
+273,2026-03-22,20:36,Madurai,Parotta,4,360
+274,2026-01-30,19:01,Tirunelveli,Noodles,2,280
+275,2026-06-08,21:53,Trichy,Noodles,1,140
+276,2026-01-28,14:27,Salem,Idli,4,200
+277,2026-01-21,19:55,Coimbatore,Fried Rice,3,450
+278,2026-03-27,12:04,Salem,Paneer Butter Masala,1,190
+279,2026-05-11,13:57,Erode,Noodles,3,420
+280,2026-06-15,11:15,Madurai,Pizza,2,500
+281,2026-02-20,12:38,Coimbatore,Burger,1,120
+282,2026-06-10,22:29,Trichy,Idli,5,250
+283,2026-06-24,17:55,Trichy,Noodles,2,280
+284,2026-01-18,22:28,Salem,Fried Rice,3,450
+285,2026-01-15,18:32,Trichy,Pizza,3,750
+286,2026-04-26,08:03,Chennai,Noodles,3,420
+287,2026-06-15,09:39,Trichy,Idli,5,250
+288,2026-04-29,08:28,Madurai,Idli,2,100
+289,2026-06-04,22:32,Trichy,Burger,1,120
+290,2026-01-27,17:45,Erode,Pizza,5,1250
+291,2026-02-14,08:15,Salem,Chicken Curry,4,800
+292,2026-05-14,12:23,Trichy,Noodles,3,420
+293,2026-04-15,17:43,Tirunelveli,Idli,1,50
+294,2026-06-11,17:04,Salem,Noodles,1,140
+295,2026-06-23,19:18,Tirunelveli,Fried Rice,5,750
+296,2026-02-08,17:05,Madurai,Idli,2,100
+297,2026-03-21,19:08,Madurai,Idli,1,50
+298,2026-05-24,19:41,Erode,Noodles,2,280
+299,2026-06-29,23:05,Madurai,Parotta,5,450
+300,2026-01-05,18:19,Madurai,Burger,2,240
+301,2026-05-05,13:14,Chennai,Burger,2,240
+302,2026-03-17,10:32,Chennai,Paneer Butter Masala,5,950
+303,2026-06-19,17:56,Salem,Idli,2,100
+304,2026-04-07,11:10,Tirunelveli,Burger,5,600
+305,2026-02-12,21:02,Erode,Parotta,3,270
+306,2026-03-02,21:39,Coimbatore,Fried Rice,4,600
+307,2026-05-17,14:19,Madurai,Chicken Curry,2,400
+308,2026-06-23,21:29,Salem,Fried Rice,4,600
+309,2026-05-16,20:10,Coimbatore,Dosa,5,400
+310,2026-03-06,08:41,Salem,Chicken Curry,3,600
+311,2026-01-27,23:54,Chennai,Pizza,3,750
+312,2026-02-11,15:28,Tirunelveli,Paneer Butter Masala,2,380
+313,2026-04-22,09:58,Madurai,Dosa,4,320
+314,2026-01-07,20:03,Madurai,Parotta,5,450
+315,2026-03-02,19:05,Chennai,Noodles,2,280
+316,2026-03-23,10:53,Coimbatore,Noodles,2,280
+317,2026-01-10,16:58,Tirunelveli,Chicken Curry,2,400
+318,2026-05-01,21:39,Chennai,Biryani,1,180
+319,2026-03-07,13:53,Erode,Burger,5,600
+320,2026-06-05,23:27,Coimbatore,Pizza,3,750
+321,2026-03-19,10:03,Erode,Dosa,4,320
+322,2026-06-09,21:04,Salem,Pizza,4,1000
+323,2026-05-18,07:40,Coimbatore,Paneer Butter Masala,5,950
+324,2026-02-06,16:27,Madurai,Biryani,5,900
+325,2026-03-03,20:11,Madurai,Pizza,5,1250
+326,2026-01-18,23:34,Salem,Paneer Butter Masala,5,950
+327,2026-01-06,19:55,Erode,Chicken Curry,1,200
+328,2026-04-10,18:16,Tirunelveli,Biryani,3,540
+329,2026-01-18,18:15,Erode,Pizza,5,1250
+330,2026-03-27,11:02,Madurai,Noodles,5,700
+331,2026-06-14,12:53,Erode,Chicken Curry,4,800
+332,2026-02-16,11:04,Madurai,Chicken Curry,1,200
+333,2026-02-21,08:50,Madurai,Dosa,1,80
+334,2026-03-21,23:25,Madurai,Paneer Butter Masala,4,760
+335,2026-01-10,13:18,Tirunelveli,Noodles,1,140
+336,2026-06-17,17:17,Trichy,Pizza,3,750
+337,2026-04-13,21:57,Coimbatore,Parotta,3,270
+338,2026-05-08,22:23,Tirunelveli,Paneer Butter Masala,3,570
+339,2026-01-22,20:05,Tirunelveli,Parotta,5,450
+340,2026-02-16,16:20,Madurai,Pizza,1,250
+341,2026-06-19,16:19,Erode,Chicken Curry,5,1000
+342,2026-04-20,12:44,Trichy,Chicken Curry,3,600
+343,2026-01-11,18:39,Erode,Parotta,3,270
+344,2026-01-15,09:42,Salem,Parotta,3,270
+345,2026-06-23,12:01,Erode,Burger,5,600
+346,2026-04-23,08:08,Tirunelveli,Pizza,2,500
+347,2026-06-15,18:23,Chennai,Parotta,5,450
+348,2026-06-04,11:43,Madurai,Chicken Curry,3,600
+349,2026-04-24,09:36,Madurai,Burger,5,600
+350,2026-04-12,17:41,Chennai,Fried Rice,2,300
+351,2026-01-07,12:31,Salem,Paneer Butter Masala,4,760
+352,2026-01-31,15:49,Coimbatore,Fried Rice,4,600
+353,2026-06-06,16:44,Chennai,Chicken Curry,2,400
+354,2026-02-04,09:28,Chennai,Burger,4,480
+355,2026-06-24,17:42,Salem,Noodles,1,140
+356,2026-05-19,16:57,Erode,Fried Rice,2,300
+357,2026-06-29,12:50,Coimbatore,Noodles,5,700
+358,2026-02-01,13:50,Tirunelveli,Burger,2,240
+359,2026-05-07,07:23,Madurai,Paneer Butter Masala,5,950
+360,2026-04-30,11:39,Madurai,Pizza,1,250
+361,2026-04-12,22:33,Tirunelveli,Parotta,4,360
+362,2026-05-28,09:08,Trichy,Noodles,1,140
+363,2026-04-30,23:22,Erode,Burger,5,600
+364,2026-05-31,12:49,Salem,Burger,4,480
+365,2026-01-15,10:33,Coimbatore,Burger,3,360
+366,2026-02-11,17:59,Salem,Dosa,3,240
+367,2026-03-14,09:16,Madurai,Dosa,5,400
+368,2026-02-02,16:39,Salem,Paneer Butter Masala,1,190
+369,2026-06-14,12:37,Coimbatore,Idli,2,100
+370,2026-06-18,17:53,Tirunelveli,Idli,1,50
+371,2026-01-08,09:02,Erode,Idli,3,150
+372,2026-02-23,20:39,Erode,Biryani,4,720
+373,2026-05-20,16:41,Coimbatore,Fried Rice,4,600
+374,2026-06-25,19:19,Erode,Chicken Curry,1,200
+375,2026-01-16,12:28,Trichy,Parotta,4,360
+376,2026-02-22,17:38,Tirunelveli,Burger,3,360
+377,2026-03-23,18:25,Salem,Burger,3,360
+378,2026-05-24,10:20,Chennai,Dosa,4,320
+379,2026-03-10,21:15,Chennai,Burger,1,120
+380,2026-03-16,19:55,Coimbatore,Idli,4,200
+381,2026-02-10,17:59,Coimbatore,Idli,3,150
+382,2026-02-10,22:32,Madurai,Chicken Curry,4,800
+383,2026-05-08,07:05,Trichy,Parotta,5,450
+384,2026-03-03,13:37,Chennai,Noodles,1,140
+385,2026-03-14,22:38,Salem,Chicken Curry,3,600
+386,2026-01-03,10:27,Erode,Burger,3,360
+387,2026-04-04,19:23,Chennai,Biryani,4,720
+388,2026-05-26,13:23,Chennai,Paneer Butter Masala,3,570
+389,2026-04-09,23:28,Tirunelveli,Paneer Butter Masala,3,570
+390,2026-06-09,10:08,Madurai,Pizza,4,1000
+391,2026-03-28,18:48,Salem,Burger,2,240
+392,2026-05-11,19:32,Chennai,Biryani,1,180
+393,2026-02-05,17:51,Trichy,Chicken Curry,5,1000
+394,2026-02-08,23:08,Madurai,Noodles,5,700
+395,2026-02-11,19:39,Madurai,Fried Rice,5,750
+396,2026-05-10,23:34,Madurai,Chicken Curry,5,1000
+397,2026-05-02,07:23,Trichy,Noodles,1,140
+398,2026-05-30,16:50,Trichy,Biryani,5,900
+399,2026-03-09,14:46,Trichy,Biryani,5,900
+400,2026-02-13,23:40,Coimbatore,Idli,4,200
+401,2026-06-24,14:02,Coimbatore,Idli,1,50
+402,2026-01-05,21:20,Trichy,Parotta,2,180
+403,2026-06-26,13:26,Trichy,Paneer Butter Masala,5,950
+404,2026-01-16,11:33,Madurai,Dosa,5,400
+405,2026-06-19,22:33,Coimbatore,Parotta,3,270
+406,2026-04-28,17:34,Salem,Noodles,3,420
+407,2026-05-04,13:15,Madurai,Fried Rice,5,750
+408,2026-02-27,16:49,Erode,Fried Rice,2,300
+409,2026-05-06,17:30,Tirunelveli,Noodles,5,700
+410,2026-03-12,16:07,Trichy,Idli,5,250
+411,2026-04-12,18:49,Chennai,Burger,3,360
+412,2026-03-15,09:22,Erode,Chicken Curry,3,600
+413,2026-05-03,13:12,Salem,Paneer Butter Masala,3,570
+414,2026-06-28,15:08,Erode,Pizza,5,1250
+415,2026-05-31,14:15,Coimbatore,Biryani,5,900
+416,2026-06-13,14:03,Madurai,Pizza,4,1000
+417,2026-05-01,10:43,Salem,Burger,1,120
+418,2026-02-10,20:41,Erode,Chicken Curry,4,800
+419,2026-02-21,16:20,Tirunelveli,Fried Rice,1,150
+420,2026-01-23,14:34,Trichy,Biryani,2,360
+421,2026-02-15,08:53,Coimbatore,Parotta,4,360
+422,2026-03-16,08:00,Salem,Fried Rice,5,750
+423,2026-01-28,17:18,Salem,Chicken Curry,5,1000
+424,2026-05-07,11:54,Madurai,Paneer Butter Masala,4,760
+425,2026-02-19,10:21,Erode,Burger,4,480
+426,2026-03-07,12:00,Salem,Noodles,3,420
+427,2026-06-22,13:11,Tirunelveli,Idli,4,200
+428,2026-04-20,23:20,Erode,Pizza,4,1000
+429,2026-01-25,12:08,Coimbatore,Chicken Curry,3,600
+430,2026-01-02,15:24,Tirunelveli,Dosa,4,320
+431,2026-03-10,17:19,Chennai,Idli,5,250
+432,2026-03-08,18:44,Erode,Dosa,1,80
+433,2026-01-31,21:19,Erode,Burger,4,480
+434,2026-05-09,16:44,Madurai,Pizza,3,750
+435,2026-06-07,14:14,Coimbatore,Burger,4,480
+436,2026-04-27,18:26,Tirunelveli,Paneer Butter Masala,4,760
+437,2026-05-18,13:48,Tirunelveli,Dosa,5,400
+438,2026-01-21,23:28,Chennai,Paneer Butter Masala,3,570
+439,2026-05-25,10:03,Coimbatore,Paneer Butter Masala,5,950
+440,2026-05-27,11:10,Trichy,Noodles,5,700
+441,2026-01-30,13:45,Chennai,Idli,4,200
+442,2026-05-11,21:51,Coimbatore,Biryani,4,720
+443,2026-05-12,20:29,Salem,Idli,1,50
+444,2026-04-29,16:46,Madurai,Biryani,4,720
+445,2026-01-01,13:37,Trichy,Pizza,1,250
+446,2026-03-30,09:34,Trichy,Biryani,1,180
+447,2026-01-09,16:26,Tirunelveli,Burger,2,240
+448,2026-06-14,20:23,Tirunelveli,Parotta,4,360
+449,2026-04-07,19:05,Erode,Paneer Butter Masala,2,380
+450,2026-03-31,10:11,Salem,Paneer Butter Masala,4,760
+451,2026-02-02,14:53,Madurai,Biryani,1,180
+452,2026-04-29,20:34,Coimbatore,Parotta,2,180
+453,2026-04-28,18:09,Erode,Fried Rice,2,300
+454,2026-01-29,08:51,Tirunelveli,Parotta,5,450
+455,2026-01-05,14:13,Salem,Pizza,1,250
+456,2026-01-09,21:38,Erode,Biryani,2,360
+457,2026-01-12,19:28,Coimbatore,Dosa,5,400
+458,2026-01-15,11:32,Tirunelveli,Fried Rice,2,300
+459,2026-05-28,17:36,Coimbatore,Idli,3,150
+460,2026-03-19,11:42,Trichy,Paneer Butter Masala,2,380
+461,2026-03-18,15:03,Erode,Paneer Butter Masala,5,950
+462,2026-02-14,20:35,Madurai,Chicken Curry,1,200
+463,2026-06-14,19:50,Erode,Paneer Butter Masala,3,570
+464,2026-04-17,20:09,Coimbatore,Fried Rice,4,600
+465,2026-05-18,22:15,Tirunelveli,Dosa,3,240
+466,2026-02-06,21:58,Trichy,Biryani,5,900
+467,2026-04-17,23:08,Madurai,Parotta,2,180
+468,2026-02-22,17:41,Tirunelveli,Pizza,4,1000
+469,2026-04-05,09:34,Madurai,Dosa,1,80
+470,2026-04-07,08:55,Tirunelveli,Pizza,2,500
+471,2026-05-31,13:30,Madurai,Dosa,3,240
+472,2026-01-04,13:59,Erode,Dosa,1,80
+473,2026-05-03,14:44,Trichy,Idli,2,100
+474,2026-03-03,17:49,Trichy,Fried Rice,4,600
+475,2026-05-17,18:19,Salem,Fried Rice,3,450
+476,2026-05-08,21:06,Coimbatore,Chicken Curry,3,600
+477,2026-04-05,17:26,Tirunelveli,Biryani,5,900
+478,2026-02-26,11:01,Salem,Fried Rice,5,750
+479,2026-05-29,20:18,Madurai,Burger,2,240
+480,2026-02-28,19:36,Salem,Dosa,4,320
+481,2026-06-17,17:16,Trichy,Chicken Curry,4,800
+482,2026-02-13,18:10,Trichy,Burger,5,600
+483,2026-02-17,08:33,Tirunelveli,Biryani,1,180
+484,2026-06-21,08:48,Coimbatore,Biryani,4,720
+485,2026-06-11,14:04,Coimbatore,Burger,1,120
+486,2026-05-10,21:23,Erode,Biryani,5,900
+487,2026-06-20,22:42,Chennai,Chicken Curry,1,200
+488,2026-05-17,20:00,Erode,Biryani,5,900
+489,2026-03-12,16:01,Tirunelveli,Paneer Butter Masala,4,760
+490,2026-02-15,10:58,Coimbatore,Pizza,5,1250
+491,2026-03-03,13:39,Tirunelveli,Paneer Butter Masala,3,570
+492,2026-04-01,15:50,Madurai,Parotta,1,90
+493,2026-04-14,21:36,Madurai,Dosa,2,160
+494,2026-06-25,09:41,Trichy,Biryani,1,180
+495,2026-04-08,19:35,Erode,Chicken Curry,1,200
+496,2026-01-03,12:05,Erode,Chicken Curry,4,800
+497,2026-03-26,10:57,Coimbatore,Paneer Butter Masala,1,190
+498,2026-02-24,22:17,Erode,Biryani,1,180
+499,2026-03-13,08:11,Coimbatore,Noodles,1,140
+500,2026-05-31,11:48,Madurai,Parotta,1,90
+501,2026-02-11,14:36,Madurai,Parotta,5,450
+502,2026-04-09,11:50,Erode,Pizza,5,1250
+503,2026-03-30,08:06,Tirunelveli,Parotta,2,180
+504,2026-01-20,17:38,Trichy,Idli,5,250
+505,2026-03-25,07:40,Trichy,Fried Rice,4,600
+506,2026-02-28,18:35,Coimbatore,Parotta,4,360
+507,2026-06-24,19:05,Tirunelveli,Idli,3,150
+508,2026-03-05,09:05,Trichy,Fried Rice,2,300
+509,2026-06-12,11:47,Madurai,Parotta,3,270
+510,2026-01-28,09:00,Madurai,Fried Rice,4,600
+511,2026-03-11,10:08,Trichy,Pizza,2,500
+512,2026-04-25,23:26,Chennai,Pizza,1,250
+513,2026-04-01,09:38,Tirunelveli,Idli,3,150
+514,2026-04-09,07:18,Tirunelveli,Parotta,4,360
+515,2026-01-22,14:36,Erode,Paneer Butter Masala,2,380
+516,2026-04-08,12:08,Madurai,Fried Rice,3,450
+517,2026-05-07,11:04,Madurai,Burger,4,480
+518,2026-04-18,16:30,Madurai,Pizza,3,750
+519,2026-03-05,22:38,Trichy,Idli,2,100
+520,2026-01-28,11:19,Madurai,Biryani,4,720
+521,2026-06-08,19:51,Madurai,Noodles,4,560
+522,2026-04-21,11:19,Erode,Noodles,5,700
+523,2026-02-21,22:20,Madurai,Burger,4,480
+524,2026-03-16,22:36,Trichy,Dosa,3,240
+525,2026-03-13,19:23,Coimbatore,Pizza,5,1250
+526,2026-06-01,12:43,Erode,Paneer Butter Masala,1,190
+527,2026-04-29,13:28,Tirunelveli,Fried Rice,1,150
+528,2026-04-15,22:08,Madurai,Fried Rice,2,300
+529,2026-06-18,11:45,Chennai,Parotta,4,360
+530,2026-04-25,22:37,Salem,Parotta,5,450
+531,2026-06-27,20:34,Erode,Biryani,3,540
+532,2026-05-18,09:06,Coimbatore,Dosa,3,240
+533,2026-06-15,08:36,Tirunelveli,Parotta,3,270
+534,2026-04-21,10:00,Coimbatore,Pizza,3,750
+535,2026-05-11,23:35,Coimbatore,Idli,5,250
+536,2026-04-25,18:25,Erode,Chicken Curry,5,1000
+537,2026-05-09,11:22,Chennai,Biryani,4,720
+538,2026-03-17,20:58,Tirunelveli,Pizza,1,250
+539,2026-02-06,18:19,Tirunelveli,Noodles,4,560
+540,2026-02-22,23:30,Chennai,Noodles,4,560
+541,2026-04-23,21:20,Chennai,Pizza,3,750
+542,2026-01-30,07:54,Erode,Noodles,1,140
+543,2026-02-12,14:33,Coimbatore,Burger,5,600
+544,2026-03-26,20:29,Erode,Dosa,4,320
+545,2026-02-17,12:40,Chennai,Parotta,4,360
+546,2026-06-07,13:28,Trichy,Idli,4,200
+547,2026-01-02,13:13,Salem,Fried Rice,1,150
+548,2026-01-27,12:23,Trichy,Noodles,2,280
+549,2026-01-30,15:42,Erode,Chicken Curry,5,1000
+550,2026-03-22,19:39,Chennai,Parotta,5,450
+551,2026-03-31,18:54,Coimbatore,Chicken Curry,5,1000
+552,2026-06-22,16:58,Chennai,Idli,5,250
+553,2026-06-22,11:20,Madurai,Pizza,2,500
+554,2026-01-30,12:23,Trichy,Burger,5,600
+555,2026-04-18,11:36,Coimbatore,Parotta,4,360
+556,2026-05-05,12:35,Madurai,Burger,4,480
+557,2026-02-05,12:20,Chennai,Chicken Curry,5,1000
+558,2026-04-02,07:31,Tirunelveli,Burger,2,240
+559,2026-04-09,23:41,Erode,Chicken Curry,4,800
+560,2026-05-06,20:45,Coimbatore,Chicken Curry,4,800
+561,2026-01-22,07:50,Chennai,Dosa,3,240
+562,2026-03-12,14:34,Tirunelveli,Fried Rice,2,300
+563,2026-04-28,22:35,Salem,Paneer Butter Masala,1,190
+564,2026-01-30,15:49,Salem,Paneer Butter Masala,3,570
+565,2026-01-11,21:34,Chennai,Dosa,4,320
+566,2026-06-17,14:19,Madurai,Biryani,4,720
+567,2026-03-31,09:28,Coimbatore,Pizza,2,500
+568,2026-05-31,18:55,Coimbatore,Idli,4,200
+569,2026-06-07,11:50,Tirunelveli,Dosa,2,160
+570,2026-01-16,18:34,Salem,Fried Rice,5,750
+571,2026-02-13,17:45,Salem,Fried Rice,3,450
+572,2026-03-10,23:57,Tirunelveli,Pizza,2,500
+573,2026-04-16,08:17,Coimbatore,Burger,2,240
+574,2026-02-07,17:53,Trichy,Dosa,4,320
+575,2026-02-06,15:40,Trichy,Parotta,4,360
+576,2026-01-20,09:25,Erode,Paneer Butter Masala,3,570
+577,2026-04-05,21:31,Chennai,Noodles,5,700
+578,2026-01-24,21:40,Tirunelveli,Noodles,1,140
+579,2026-05-17,19:13,Trichy,Parotta,2,180
+580,2026-03-10,17:53,Salem,Fried Rice,3,450
+581,2026-05-28,11:36,Erode,Chicken Curry,3,600
+582,2026-01-13,08:06,Chennai,Chicken Curry,1,200
+583,2026-02-10,21:29,Coimbatore,Biryani,4,720
+584,2026-06-26,11:56,Tirunelveli,Fried Rice,2,300
+585,2026-03-12,09:41,Chennai,Noodles,3,420
+586,2026-04-06,12:03,Erode,Parotta,3,270
+587,2026-06-29,14:27,Chennai,Pizza,1,250
+588,2026-02-24,22:04,Coimbatore,Burger,5,600
+589,2026-05-13,21:00,Tirunelveli,Biryani,3,540
+590,2026-01-31,20:44,Chennai,Burger,4,480
+591,2026-02-28,19:05,Madurai,Pizza,1,250
+592,2026-04-05,16:08,Erode,Parotta,2,180
+593,2026-06-23,11:04,Chennai,Paneer Butter Masala,5,950
+594,2026-06-06,12:28,Erode,Noodles,2,280
+595,2026-02-08,20:39,Chennai,Chicken Curry,2,400
+596,2026-01-26,11:48,Erode,Pizza,5,1250
+597,2026-04-09,18:27,Coimbatore,Noodles,2,280
+598,2026-03-12,09:15,Salem,Paneer Butter Masala,5,950
+599,2026-06-05,16:49,Coimbatore,Biryani,3,540
+600,2026-05-13,23:12,Erode,Parotta,3,270
+601,2026-01-14,14:31,Coimbatore,Parotta,1,90
+602,2026-05-08,09:33,Madurai,Biryani,3,540
+603,2026-02-03,19:55,Madurai,Idli,4,200
+604,2026-05-20,12:48,Chennai,Chicken Curry,1,200
+605,2026-05-31,09:00,Chennai,Fried Rice,2,300
+606,2026-01-16,19:32,Tirunelveli,Fried Rice,5,750
+607,2026-04-17,20:44,Erode,Parotta,1,90
+608,2026-05-18,11:17,Chennai,Pizza,3,750
+609,2026-05-11,13:51,Madurai,Burger,5,600
+610,2026-04-11,09:19,Chennai,Parotta,2,180
+611,2026-03-04,09:59,Trichy,Parotta,1,90
+612,2026-06-06,08:19,Chennai,Burger,1,120
+613,2026-02-05,07:10,Salem,Chicken Curry,3,600
+614,2026-05-13,15:10,Erode,Noodles,2,280
+615,2026-03-10,10:49,Tirunelveli,Biryani,3,540
+616,2026-04-20,15:33,Erode,Pizza,3,750
+617,2026-05-28,09:31,Madurai,Chicken Curry,5,1000
+618,2026-01-15,22:54,Madurai,Idli,2,100
+619,2026-02-10,15:49,Erode,Pizza,5,1250
+620,2026-01-30,14:47,Chennai,Paneer Butter Masala,1,190
+621,2026-01-04,14:02,Trichy,Chicken Curry,3,600
+622,2026-02-08,12:59,Tirunelveli,Biryani,5,900
+623,2026-06-17,20:14,Trichy,Noodles,2,280
+624,2026-03-23,15:52,Madurai,Pizza,5,1250
+625,2026-01-31,23:43,Coimbatore,Biryani,2,360
+626,2026-05-13,08:25,Tirunelveli,Pizza,4,1000
+627,2026-03-14,16:20,Trichy,Pizza,5,1250
+628,2026-01-03,18:12,Tirunelveli,Fried Rice,5,750
+629,2026-03-19,14:29,Trichy,Noodles,5,700
+630,2026-02-20,14:09,Chennai,Biryani,4,720
+631,2026-03-01,18:40,Chennai,Biryani,3,540
+632,2026-06-18,19:54,Coimbatore,Fried Rice,1,150
+633,2026-05-16,14:26,Coimbatore,Chicken Curry,1,200
+634,2026-03-13,09:02,Trichy,Dosa,5,400
+635,2026-06-29,18:29,Chennai,Pizza,5,1250
+636,2026-05-10,11:40,Salem,Parotta,1,90
+637,2026-05-26,08:27,Madurai,Burger,2,240
+638,2026-03-08,17:59,Madurai,Parotta,3,270
+639,2026-04-26,15:14,Coimbatore,Pizza,2,500
+640,2026-05-30,10:09,Trichy,Pizza,2,500
+641,2026-04-30,17:26,Madurai,Pizza,5,1250
+642,2026-02-23,21:19,Tirunelveli,Chicken Curry,3,600
+643,2026-01-31,09:10,Chennai,Fried Rice,5,750
+644,2026-02-25,17:09,Madurai,Pizza,2,500
+645,2026-04-12,23:03,Tirunelveli,Fried Rice,3,450
+646,2026-02-14,07:25,Erode,Chicken Curry,5,1000
+647,2026-05-21,14:06,Tirunelveli,Chicken Curry,1,200
+648,2026-02-05,10:00,Coimbatore,Biryani,2,360
+649,2026-02-20,19:23,Salem,Pizza,5,1250
+650,2026-03-08,09:01,Erode,Pizza,2,500
+651,2026-04-24,11:05,Chennai,Noodles,1,140
+652,2026-04-29,08:10,Tirunelveli,Idli,4,200
+653,2026-04-12,22:01,Coimbatore,Parotta,4,360
+654,2026-04-01,13:58,Madurai,Burger,3,360
+655,2026-04-25,11:02,Salem,Idli,5,250
+656,2026-03-04,16:31,Trichy,Parotta,5,450
+657,2026-01-16,09:17,Trichy,Parotta,2,180
+658,2026-02-21,23:15,Trichy,Paneer Butter Masala,1,190
+659,2026-04-02,22:34,Salem,Chicken Curry,3,600
+660,2026-05-09,17:24,Chennai,Fried Rice,2,300
+661,2026-03-23,14:01,Tirunelveli,Fried Rice,1,150
+662,2026-05-01,23:22,Coimbatore,Idli,2,100
+663,2026-01-26,14:42,Salem,Dosa,3,240
+664,2026-01-15,14:36,Tirunelveli,Parotta,3,270
+665,2026-02-14,12:15,Tirunelveli,Idli,3,150
+666,2026-06-28,18:58,Erode,Idli,1,50
+667,2026-06-29,18:36,Salem,Idli,2,100
+668,2026-02-18,22:34,Trichy,Fried Rice,2,300
+669,2026-01-10,09:03,Coimbatore,Dosa,5,400
+670,2026-01-06,23:30,Salem,Biryani,3,540
+671,2026-02-21,11:21,Chennai,Burger,3,360
+672,2026-01-06,11:37,Tirunelveli,Burger,1,120
+673,2026-05-15,18:04,Salem,Noodles,4,560
+674,2026-01-26,17:19,Coimbatore,Noodles,2,280
+675,2026-04-22,22:41,Erode,Noodles,2,280
+676,2026-05-24,18:14,Trichy,Idli,2,100
+677,2026-03-20,16:08,Erode,Burger,1,120
+678,2026-05-27,19:54,Coimbatore,Idli,1,50
+679,2026-06-04,17:58,Erode,Idli,2,100
+680,2026-05-25,10:59,Madurai,Chicken Curry,2,400
+681,2026-01-20,14:22,Erode,Noodles,2,280
+682,2026-01-23,17:28,Coimbatore,Biryani,3,540
+683,2026-03-05,09:22,Erode,Fried Rice,1,150
+684,2026-01-01,08:24,Coimbatore,Chicken Curry,4,800
+685,2026-04-16,22:56,Salem,Parotta,3,270
+686,2026-04-07,10:53,Erode,Chicken Curry,5,1000
+687,2026-06-25,14:10,Tirunelveli,Chicken Curry,1,200
+688,2026-01-09,16:01,Chennai,Noodles,3,420
+689,2026-01-19,17:10,Erode,Parotta,2,180
+690,2026-01-20,09:21,Trichy,Idli,5,250
+691,2026-01-08,20:41,Trichy,Burger,5,600
+692,2026-02-10,08:06,Coimbatore,Noodles,2,280
+693,2026-04-15,15:42,Coimbatore,Fried Rice,3,450
+694,2026-01-25,08:25,Tirunelveli,Idli,5,250
+695,2026-05-06,11:03,Trichy,Noodles,1,140
+696,2026-01-23,16:52,Coimbatore,Idli,4,200
+697,2026-01-25,07:13,Chennai,Burger,3,360
+698,2026-05-02,10:19,Trichy,Parotta,4,360
+699,2026-06-19,15:05,Coimbatore,Paneer Butter Masala,4,760
+700,2026-04-05,19:23,Chennai,Burger,4,480
+701,2026-03-09,21:29,Tirunelveli,Fried Rice,2,300
+702,2026-03-10,08:09,Erode,Pizza,1,250
+703,2026-03-30,20:48,Salem,Idli,2,100
+704,2026-01-16,19:52,Salem,Paneer Butter Masala,4,760
+705,2026-06-25,22:36,Madurai,Dosa,4,320
+706,2026-01-21,19:57,Salem,Biryani,5,900
+707,2026-05-13,11:07,Coimbatore,Chicken Curry,2,400
+708,2026-02-24,13:08,Chennai,Biryani,4,720
+709,2026-06-24,20:12,Madurai,Burger,5,600
+710,2026-03-23,09:05,Trichy,Parotta,5,450
+711,2026-05-22,17:54,Trichy,Fried Rice,5,750
+712,2026-01-04,23:50,Trichy,Parotta,1,90
+713,2026-02-08,11:36,Tirunelveli,Idli,5,250
+714,2026-01-26,10:36,Tirunelveli,Pizza,3,750
+715,2026-05-18,18:56,Trichy,Parotta,3,270
+716,2026-06-17,22:36,Chennai,Idli,4,200
+717,2026-02-14,15:25,Salem,Burger,5,600
+718,2026-06-24,19:02,Erode,Parotta,3,270
+719,2026-03-02,08:47,Madurai,Chicken Curry,3,600
+720,2026-01-06,17:52,Madurai,Fried Rice,3,450
+721,2026-05-06,10:55,Madurai,Dosa,2,160
+722,2026-04-24,17:17,Erode,Parotta,5,450
+723,2026-01-23,13:28,Erode,Dosa,4,320
+724,2026-05-05,23:55,Salem,Noodles,1,140
+725,2026-02-10,09:19,Coimbatore,Paneer Butter Masala,4,760
+726,2026-05-15,07:11,Tirunelveli,Dosa,2,160
+727,2026-01-15,14:02,Madurai,Chicken Curry,1,200
+728,2026-02-20,15:23,Trichy,Chicken Curry,5,1000
+729,2026-06-12,10:43,Madurai,Biryani,2,360
+730,2026-05-06,21:11,Salem,Chicken Curry,5,1000
+731,2026-03-31,18:10,Madurai,Fried Rice,1,150
+732,2026-01-08,19:03,Tirunelveli,Burger,5,600
+733,2026-02-24,14:41,Madurai,Dosa,2,160
+734,2026-06-16,20:32,Trichy,Biryani,1,180
+735,2026-02-03,12:38,Madurai,Biryani,2,360
+736,2026-06-05,16:45,Trichy,Fried Rice,4,600
+737,2026-03-31,21:16,Madurai,Dosa,4,320
+738,2026-06-23,23:52,Salem,Idli,4,200
+739,2026-01-27,07:32,Erode,Noodles,5,700
+740,2026-06-02,16:19,Chennai,Pizza,4,1000
+741,2026-03-28,15:40,Madurai,Noodles,3,420
+742,2026-06-17,16:12,Tirunelveli,Burger,5,600
+743,2026-03-03,08:51,Erode,Idli,4,200
+744,2026-03-23,11:46,Madurai,Biryani,4,720
+745,2026-03-08,20:25,Salem,Parotta,1,90
+746,2026-05-27,13:21,Erode,Dosa,5,400
+747,2026-05-02,18:32,Tirunelveli,Fried Rice,2,300
+748,2026-06-18,12:18,Coimbatore,Pizza,4,1000
+749,2026-03-08,12:43,Coimbatore,Noodles,1,140
+750,2026-04-01,14:47,Tirunelveli,Fried Rice,4,600
+751,2026-03-26,18:16,Trichy,Idli,3,150
+752,2026-01-31,22:03,Salem,Idli,5,250
+753,2026-01-19,22:56,Chennai,Dosa,5,400
+754,2026-06-24,19:33,Chennai,Fried Rice,4,600
+755,2026-02-08,11:12,Salem,Noodles,4,560
+756,2026-04-28,11:20,Trichy,Burger,1,120
+757,2026-03-27,12:20,Trichy,Biryani,1,180
+758,2026-03-12,13:48,Tirunelveli,Burger,5,600
+759,2026-02-10,22:50,Salem,Pizza,2,500
+760,2026-04-22,20:25,Trichy,Parotta,4,360
+761,2026-01-02,08:34,Chennai,Dosa,3,240
+762,2026-03-24,23:12,Erode,Biryani,1,180
+763,2026-03-05,14:44,Coimbatore,Noodles,3,420
+764,2026-01-27,19:32,Coimbatore,Idli,3,150
+765,2026-01-17,08:19,Erode,Fried Rice,4,600
+766,2026-05-14,23:21,Madurai,Parotta,2,180
+767,2026-05-06,18:48,Tirunelveli,Dosa,2,160
+768,2026-04-14,07:14,Coimbatore,Dosa,2,160
+769,2026-01-06,23:10,Erode,Pizza,3,750
+770,2026-06-16,08:24,Salem,Fried Rice,5,750
+771,2026-01-13,08:42,Chennai,Pizza,1,250
+772,2026-06-26,10:26,Chennai,Chicken Curry,4,800
+773,2026-05-21,15:30,Erode,Burger,2,240
+774,2026-06-25,07:19,Erode,Parotta,1,90
+775,2026-05-14,15:39,Trichy,Idli,2,100
+776,2026-01-27,23:46,Madurai,Idli,1,50
+777,2026-01-30,10:31,Coimbatore,Dosa,5,400
+778,2026-03-09,23:12,Madurai,Noodles,4,560
+779,2026-02-11,08:35,Erode,Chicken Curry,2,400
+780,2026-05-04,17:15,Erode,Biryani,1,180
+781,2026-01-23,10:53,Coimbatore,Idli,4,200
+782,2026-01-24,23:04,Erode,Pizza,3,750
+783,2026-03-01,21:18,Chennai,Fried Rice,4,600
+784,2026-01-26,12:55,Madurai,Biryani,3,540
+785,2026-06-23,17:27,Tirunelveli,Pizza,1,250
+786,2026-01-12,07:54,Madurai,Burger,2,240
+787,2026-04-02,21:39,Madurai,Fried Rice,1,150
+788,2026-03-29,12:07,Trichy,Parotta,4,360
+789,2026-03-11,19:44,Erode,Chicken Curry,4,800
+790,2026-02-12,10:08,Chennai,Biryani,2,360
+791,2026-04-17,22:51,Coimbatore,Idli,4,200
+792,2026-06-06,19:49,Chennai,Noodles,5,700
+793,2026-06-25,11:30,Trichy,Chicken Curry,1,200
+794,2026-04-23,08:04,Chennai,Fried Rice,3,450
+795,2026-06-23,23:49,Coimbatore,Idli,5,250
+796,2026-06-21,17:33,Chennai,Paneer Butter Masala,5,950
+797,2026-04-21,14:30,Coimbatore,Noodles,4,560
+798,2026-05-23,08:00,Tirunelveli,Burger,5,600
+799,2026-05-01,22:55,Tirunelveli,Burger,1,120
+800,2026-05-06,17:15,Chennai,Noodles,3,420
+801,2026-05-10,14:35,Tirunelveli,Parotta,4,360
+802,2026-03-02,09:29,Trichy,Chicken Curry,5,1000
+803,2026-01-23,22:28,Trichy,Noodles,1,140
+804,2026-06-17,07:06,Chennai,Parotta,4,360
+805,2026-05-23,07:52,Salem,Pizza,5,1250
+806,2026-06-13,16:56,Coimbatore,Paneer Butter Masala,5,950
+807,2026-06-17,21:21,Tirunelveli,Noodles,1,140
+808,2026-02-27,21:21,Salem,Paneer Butter Masala,5,950
+809,2026-05-02,18:45,Chennai,Chicken Curry,1,200
+810,2026-06-18,14:00,Tirunelveli,Noodles,3,420
+811,2026-06-12,16:35,Erode,Paneer Butter Masala,3,570
+812,2026-01-28,08:57,Coimbatore,Burger,4,480
+813,2026-04-15,10:16,Coimbatore,Idli,2,100
+814,2026-01-31,19:13,Erode,Chicken Curry,2,400
+815,2026-03-28,10:48,Erode,Parotta,1,90
+816,2026-06-22,10:49,Erode,Chicken Curry,4,800
+817,2026-05-31,23:08,Salem,Chicken Curry,1,200
+818,2026-01-13,20:53,Salem,Idli,4,200
+819,2026-02-15,12:46,Trichy,Burger,1,120
+820,2026-06-18,17:32,Salem,Parotta,4,360
+821,2026-06-27,14:17,Madurai,Parotta,3,270
+822,2026-04-26,11:08,Erode,Parotta,5,450
+823,2026-05-12,16:53,Erode,Paneer Butter Masala,3,570
+824,2026-05-22,13:12,Erode,Dosa,5,400
+825,2026-03-16,18:58,Salem,Burger,2,240
+826,2026-05-19,17:45,Salem,Pizza,3,750
+827,2026-05-03,20:43,Tirunelveli,Paneer Butter Masala,3,570
+828,2026-04-19,07:33,Trichy,Pizza,1,250
+829,2026-02-07,08:42,Madurai,Biryani,2,360
+830,2026-02-11,16:43,Tirunelveli,Fried Rice,2,300
+831,2026-01-16,16:13,Madurai,Paneer Butter Masala,1,190
+832,2026-04-26,10:39,Erode,Paneer Butter Masala,2,380
+833,2026-06-15,19:15,Erode,Paneer Butter Masala,3,570
+834,2026-06-20,08:59,Trichy,Parotta,4,360
+835,2026-06-25,17:35,Erode,Biryani,1,180
+836,2026-03-06,13:39,Erode,Chicken Curry,2,400
+837,2026-06-15,18:48,Erode,Idli,5,250
+838,2026-06-04,13:49,Trichy,Dosa,3,240
+839,2026-02-15,09:11,Chennai,Burger,5,600
+840,2026-04-07,08:27,Madurai,Fried Rice,5,750
+841,2026-02-03,12:37,Madurai,Fried Rice,1,150
+842,2026-04-30,11:02,Salem,Burger,3,360
+843,2026-01-14,16:31,Madurai,Idli,5,250
+844,2026-01-19,17:33,Salem,Dosa,2,160
+845,2026-01-18,23:10,Salem,Parotta,5,450
+846,2026-04-14,09:22,Erode,Dosa,2,160
+847,2026-03-26,17:23,Tirunelveli,Fried Rice,2,300
+848,2026-06-08,23:30,Chennai,Paneer Butter Masala,1,190
+849,2026-06-21,18:28,Salem,Dosa,5,400
+850,2026-03-04,08:43,Tirunelveli,Noodles,4,560
+851,2026-01-30,19:16,Chennai,Paneer Butter Masala,3,570
+852,2026-05-13,18:32,Trichy,Paneer Butter Masala,4,760
+853,2026-01-12,16:57,Salem,Dosa,3,240
+854,2026-01-22,10:10,Chennai,Paneer Butter Masala,5,950
+855,2026-06-10,09:13,Tirunelveli,Dosa,4,320
+856,2026-01-27,13:34,Erode,Parotta,1,90
+857,2026-06-25,11:01,Chennai,Chicken Curry,3,600
+858,2026-01-23,09:03,Salem,Burger,3,360
+859,2026-01-19,14:58,Trichy,Fried Rice,4,600
+860,2026-04-26,19:27,Trichy,Noodles,1,140
+861,2026-06-22,10:34,Chennai,Biryani,5,900
+862,2026-05-30,08:44,Salem,Pizza,3,750
+863,2026-01-28,16:50,Chennai,Fried Rice,5,750
+864,2026-03-14,21:24,Trichy,Parotta,1,90
+865,2026-02-10,14:08,Madurai,Parotta,5,450
+866,2026-06-12,11:19,Salem,Noodles,1,140
+867,2026-05-23,11:07,Salem,Biryani,1,180
+868,2026-06-02,19:34,Madurai,Paneer Butter Masala,1,190
+869,2026-02-23,18:13,Coimbatore,Parotta,5,450
+870,2026-02-11,12:14,Coimbatore,Idli,3,150
+871,2026-01-30,12:42,Tirunelveli,Idli,1,50
+872,2026-05-21,21:41,Madurai,Paneer Butter Masala,1,190
+873,2026-06-21,09:16,Erode,Pizza,2,500
+874,2026-05-29,22:21,Erode,Noodles,2,280
+875,2026-06-17,14:06,Chennai,Fried Rice,5,750
+876,2026-02-19,17:31,Salem,Chicken Curry,3,600
+877,2026-06-18,16:44,Salem,Idli,2,100
+878,2026-05-26,18:51,Coimbatore,Noodles,4,560
+879,2026-01-02,17:15,Madurai,Dosa,4,320
+880,2026-04-03,11:43,Trichy,Noodles,4,560
+881,2026-04-25,18:49,Salem,Fried Rice,4,600
+882,2026-01-28,12:41,Tirunelveli,Idli,1,50
+883,2026-03-13,11:57,Madurai,Paneer Butter Masala,2,380
+884,2026-06-10,09:46,Tirunelveli,Pizza,1,250
+885,2026-05-10,07:52,Trichy,Idli,5,250
+886,2026-06-01,13:58,Madurai,Biryani,5,900
+887,2026-05-20,22:41,Trichy,Burger,3,360
+888,2026-02-27,16:08,Salem,Chicken Curry,5,1000
+889,2026-01-24,19:23,Erode,Paneer Butter Masala,1,190
+890,2026-03-03,12:48,Trichy,Paneer Butter Masala,2,380
+891,2026-02-10,12:36,Erode,Idli,2,100
+892,2026-05-04,18:02,Coimbatore,Dosa,4,320
+893,2026-01-17,15:23,Erode,Dosa,1,80
+894,2026-02-22,23:58,Trichy,Noodles,4,560
+895,2026-04-27,08:02,Erode,Noodles,1,140
+896,2026-05-14,15:53,Salem,Fried Rice,5,750
+897,2026-05-26,12:24,Salem,Parotta,3,270
+898,2026-06-17,09:33,Coimbatore,Fried Rice,4,600
+899,2026-05-13,19:22,Tirunelveli,Noodles,4,560
+900,2026-05-04,07:32,Coimbatore,Burger,4,480
+901,2026-02-28,09:32,Coimbatore,Fried Rice,2,300
+902,2026-02-17,12:23,Erode,Idli,1,50
+903,2026-02-28,20:51,Trichy,Noodles,1,140
+904,2026-06-22,22:30,Coimbatore,Dosa,5,400
+905,2026-06-15,20:01,Coimbatore,Dosa,1,80
+906,2026-05-27,12:08,Salem,Paneer Butter Masala,1,190
+907,2026-02-07,08:10,Salem,Fried Rice,2,300
+908,2026-04-14,07:56,Coimbatore,Fried Rice,1,150
+909,2026-04-25,22:55,Coimbatore,Chicken Curry,2,400
+910,2026-04-16,11:50,Salem,Idli,2,100
+911,2026-06-18,23:16,Trichy,Burger,3,360
+912,2026-06-02,09:14,Coimbatore,Parotta,4,360
+913,2026-01-28,07:12,Erode,Paneer Butter Masala,5,950
+914,2026-04-18,11:38,Trichy,Pizza,2,500
+915,2026-06-07,08:56,Tirunelveli,Paneer Butter Masala,5,950
+916,2026-01-31,09:30,Salem,Burger,5,600
+917,2026-01-01,20:33,Tirunelveli,Parotta,3,270
+918,2026-01-12,23:27,Tirunelveli,Dosa,4,320
+919,2026-04-08,18:37,Trichy,Idli,1,50
+920,2026-02-04,15:30,Madurai,Dosa,1,80
+921,2026-06-03,20:16,Erode,Dosa,1,80
+922,2026-01-02,23:07,Trichy,Paneer Butter Masala,1,190
+923,2026-06-17,13:44,Madurai,Noodles,4,560
+924,2026-01-28,11:27,Madurai,Idli,3,150
+925,2026-05-18,20:36,Madurai,Noodles,5,700
+926,2026-06-24,19:48,Salem,Dosa,4,320
+927,2026-05-23,22:11,Salem,Noodles,5,700
+928,2026-05-04,15:19,Tirunelveli,Idli,3,150
+929,2026-04-12,11:54,Trichy,Pizza,2,500
+930,2026-06-29,12:06,Trichy,Dosa,5,400
+931,2026-03-28,08:10,Tirunelveli,Parotta,1,90
+932,2026-01-24,11:30,Chennai,Idli,4,200
+933,2026-01-17,15:14,Salem,Noodles,1,140
+934,2026-01-10,19:59,Erode,Parotta,5,450
+935,2026-05-14,16:45,Tirunelveli,Idli,1,50
+936,2026-02-14,22:28,Tirunelveli,Biryani,2,360
+937,2026-06-18,23:18,Tirunelveli,Dosa,1,80
+938,2026-06-03,23:33,Coimbatore,Dosa,5,400
+939,2026-06-22,08:23,Coimbatore,Dosa,1,80
+940,2026-01-23,15:49,Erode,Parotta,3,270
+941,2026-04-12,19:37,Chennai,Dosa,5,400
+942,2026-01-18,09:35,Salem,Fried Rice,5,750
+943,2026-03-31,18:52,Salem,Fried Rice,2,300
+944,2026-02-19,21:59,Chennai,Parotta,5,450
+945,2026-03-08,12:26,Salem,Paneer Butter Masala,1,190
+946,2026-01-19,23:18,Tirunelveli,Noodles,1,140
+947,2026-05-12,15:56,Madurai,Paneer Butter Masala,5,950
+948,2026-06-27,21:24,Tirunelveli,Idli,4,200
+949,2026-03-04,17:49,Salem,Chicken Curry,4,800
+950,2026-01-08,22:07,Trichy,Fried Rice,1,150
+951,2026-06-12,14:43,Trichy,Dosa,3,240
+952,2026-04-01,23:34,Coimbatore,Biryani,3,540
+953,2026-03-15,09:25,Salem,Noodles,1,140
+954,2026-02-15,22:20,Salem,Noodles,2,280
+955,2026-03-10,12:47,Erode,Dosa,4,320
+956,2026-02-21,14:47,Coimbatore,Dosa,3,240
+957,2026-02-28,13:53,Madurai,Dosa,5,400
+958,2026-02-09,10:07,Salem,Pizza,4,1000
+959,2026-01-02,08:54,Salem,Chicken Curry,3,600
+960,2026-03-22,22:57,Trichy,Idli,3,150
+961,2026-02-16,23:17,Tirunelveli,Parotta,2,180
+962,2026-05-28,11:03,Trichy,Paneer Butter Masala,4,760
+963,2026-05-19,08:32,Tirunelveli,Noodles,4,560
+964,2026-06-25,12:29,Trichy,Pizza,5,1250
+965,2026-03-22,07:00,Salem,Dosa,4,320
+966,2026-01-26,17:23,Coimbatore,Idli,3,150
+967,2026-05-21,15:15,Salem,Fried Rice,4,600
+968,2026-03-29,18:11,Coimbatore,Chicken Curry,4,800
+969,2026-04-18,18:23,Trichy,Parotta,3,270
+970,2026-02-16,11:36,Erode,Dosa,1,80
+971,2026-03-11,14:35,Coimbatore,Parotta,4,360
+972,2026-02-07,11:30,Trichy,Biryani,2,360
+973,2026-05-08,11:57,Erode,Paneer Butter Masala,5,950
+974,2026-03-22,22:19,Tirunelveli,Fried Rice,5,750
+975,2026-05-26,08:25,Chennai,Pizza,2,500
+976,2026-02-25,15:30,Erode,Pizza,4,1000
+977,2026-03-27,15:23,Salem,Noodles,5,700
+978,2026-03-07,18:01,Madurai,Parotta,1,90
+979,2026-06-23,13:36,Coimbatore,Idli,5,250
+980,2026-03-14,18:20,Tirunelveli,Paneer Butter Masala,4,760
+981,2026-04-25,09:24,Trichy,Idli,3,150
+982,2026-06-11,11:55,Trichy,Burger,3,360
+983,2026-06-11,19:54,Coimbatore,Pizza,1,250
+984,2026-03-29,14:20,Erode,Noodles,3,420
+985,2026-03-10,19:17,Erode,Chicken Curry,3,600
+986,2026-05-31,23:28,Coimbatore,Parotta,2,180
+987,2026-01-06,11:46,Erode,Dosa,3,240
+988,2026-06-29,09:13,Chennai,Burger,4,480
+989,2026-01-25,09:59,Chennai,Chicken Curry,5,1000
+990,2026-01-07,19:33,Madurai,Pizza,1,250
+991,2026-06-08,11:05,Coimbatore,Parotta,3,270
+992,2026-03-05,16:28,Salem,Burger,2,240
+993,2026-02-13,07:02,Tirunelveli,Noodles,3,420
+994,2026-05-02,21:55,Salem,Paneer Butter Masala,3,570
+995,2026-04-24,11:44,Salem,Paneer Butter Masala,2,380
+996,2026-06-02,21:40,Salem,Idli,4,200
+997,2026-06-13,16:58,Salem,Noodles,4,560
+998,2026-02-28,09:28,Trichy,Fried Rice,3,450
+999,2026-03-08,11:19,Salem,Biryani,1,180
+1000,2026-02-04,18:18,Chennai,Chicken Curry,5,1000
